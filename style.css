@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.banner {
+  background-color: blue;
+  height: 100vh;
+  background-image: url("https://res.cloudinary.com/dvug8hy5k/image/upload/v1630120395/Frontend%20Mentor/image-header_bfgbrz.jpg");
+  background-position: center bottom;
+  background-size: cover;
+
+}
